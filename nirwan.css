@@ -1,0 +1,11 @@
+.NINJA{
+	border: 100px solid;
+	box-shadow: 40px 60px red;
+	background-color: blue;
+	border-radius:50px;
+
+}
+
+.tit{
+	box-shadow: 40px 60px red;
+}
