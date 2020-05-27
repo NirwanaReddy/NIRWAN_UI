@@ -1,6 +1,6 @@
-div{
-	width: 400px;
-	height: 100px;
+.red{
+	width: 70px;
+	height: 190px;
 	border: 2px solid;
 	animation-name: trying;
 	animation-duration: 4s;
@@ -8,18 +8,33 @@ div{
 }
 
 
-
 .try {
-	/*transform: rotateY(150deg);
-	transform: skewY(40deg);
-	-ms-transform: rotate(20deg);*/
-    
-} 
+    width:70px;
+    height: 190px;
+    border: 2px solid;
+    animation-name: trying;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+    animation-duration: 4s;
+	transform: skewY(40deg);    
+}
+
+.ury{
+	width: 70px;
+	height: 170px;
+	border: 2px solid;
+	animation-name: ret;
+    animation-duration:5s; 
+    transform: skewY(40deg);
+}
+
+
 
 @keyframes trying {
-	 0% {background-color: red;margin-left:10px;}
-    25% {background-color: blue;margin-left:20px;}
-    50% {background-color: green;margin-left:30px;}
-    100% {background-color: aqua;margin-left:50px;}
-    150%{background-color: silver;margin-left:60px;}
+	
+    50% {background-color: red;margin-left:400px;}
+    100%{background-color: blue;margin-left:800px;}
+}
+
+@keyframes ret{
+	50%{background-color: green;margin-left: 30px;}
+    100%{background-color: silver;margin-left: 60px;} 
 }
