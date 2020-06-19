@@ -1,0 +1,15 @@
+.grid{
+	display: grid;
+	grid-template-columns: auto auto;
+	grid-column-gap: 50px;
+	grid-row-gap: 50px;
+	padding: 10px;
+	background-color: blue;
+
+}
+
+.grid div{
+	padding: 10px;
+	text-align: center;
+	border: 1px solid;
+}

@@ -1,0 +1,56 @@
+.calc{
+	border: 5px solid;
+	border-radius: 50%;
+	box-shadow: 20px 20px red;
+	margin: 90px;
+}
+
+.calc2{
+	border: 10px solid;
+	margin: 100px;
+	box-shadow: 30px 30px blue;
+}
+
+.calc3{
+	border: 10px solid;
+	margin: 100px;
+	box-shadow: 30px 30px yellow;
+}
+
+.calc4{
+	border: 10px solid;
+	box-shadow: 10px 10px;
+	margin: 100px;
+}
+
+.calc5{
+	border: 10px solid;
+	box-shadow: 10px 10px green;
+	margin: 100px;
+}
+
+.calc6{
+	border: 10px solid;
+	box-shadow: 10px 10px pink;
+	margin: 100px;
+}
+
+.calc7{
+	border: 10px solid;
+	box-shadow: 10px 10px silver;
+	margin: 100px;
+}
+
+.calc8{
+	border: 10px solid;
+	box-shadow: 10px 10px indigo;
+	margin: 100px;
+}
+
+.calc9{
+	border: 10px solid;
+	box-shadow: 10px 10px cyan;
+	margin: 100px;
+}
+
+
