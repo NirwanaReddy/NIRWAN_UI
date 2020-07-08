@@ -21,6 +21,7 @@ function changeColor() {
 }
 
 
+
 function result(op){
      var firstNumber = document.getElementById("firstNumber").value;
      var secondNumber = document.getElementById("secondNumber").value;
